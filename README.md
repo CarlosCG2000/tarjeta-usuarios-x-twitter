@@ -21,5 +21,5 @@ En vez de crear muchas tarjetas (componentes hijo) dentro del componente App de 
 
 ### INTERFAZ 
 <div align="center">
-  <img src="./public/1-tarjeta-twitter.png" alt="Esquema del proyecto" width="600"/>
+  <img src="./public/1-tarjeta-twitter.png" alt="Esquema del proyecto" width="800"/>
 </div>
