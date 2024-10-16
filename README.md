@@ -1,6 +1,6 @@
-# React + Vite (JS + SWC)
+# CREAR ETIQUETAS SEGUIDORES EN X (TWITTER)
 
-## CREAR ETIQUETAS SEGUIDORES EN X (TWITTER)
+## React + Vite (JS + SWC)
 
 Lo primero es pensar en el proyecto como es, que necesitamos, etc.
 
