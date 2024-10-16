@@ -15,6 +15,6 @@ En este caso cuando se pulse el botón de la tarjeta podemos seguir o dejar de s
 
 En vez de crear muchas tarjetas (componentes hijo) dentro del componente App de manera manual, es mejor recorrer dichos componentes en un array con un mapeo, por ejemplo.
 
-![Esquema del proyecto](./public/esquema.png)
-![Interfaz final del proyecto](./public/1-tarjeta-twitter.png)
+![Esquema del proyecto](./public/esquema.png)  {width="400px" height="300px"}
+![Interfaz final del proyecto](./public/1-tarjeta-twitter.png)  {width="100px" height="200px"}
 
